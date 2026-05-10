@@ -1,0 +1,11 @@
+package Training1;
+
+public class GITEclipse1 {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+  System.out.println("new file created for traing");
+		
+	}
+
+
+}
