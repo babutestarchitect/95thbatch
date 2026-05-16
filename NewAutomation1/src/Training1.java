@@ -1,12 +1,9 @@
-package Training1;
 
 public class Training1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		System.out.println("This a training project");
-		
+System.out.println("This a training session");
 	}
 
 }
